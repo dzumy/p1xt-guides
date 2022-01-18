@@ -90,23 +90,23 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 
 Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp. See [FAQ](./faq.md) for alternatives.
 
-| Courses                                                                                                                                 |   Status   |   Evidence   |
-| :-------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Welcome To Coding                                                                                                                       |     🚧     |              |
-| Full Stack Online - Intro to Programming                                                                                                |            |              |
-| Full Stack Online - Software Engineering Foundations                                                                                    |            |              |
-| Full Stack Online - Ruby                                                                                                                |            |              |
-| Full Stack Online - SQL                                                                                                                 |            |              |
-| Full Stack Online - Rails                                                                                                               |            |              |
-| Full Stack Online - JavaScript                                                                                                          |            |              |
-| Full Stack Online - React                                                                                                               |            |              |
-| Full Stack Online - Full Stack Project                                                                                                  |            |              |
-| Full Stack Online - MERN Stack Curriculum                                                                                               |            |              |
-| Full Stack Online - Job Search                                                                                                          |            |              |
-| Full Stack Online - Docker                                                                                                              |            |              |
-| Full Stack Online - GraphQL                                                                                                             |            |              |
-| Full Stack Online - Data Structures and Algorithm                                                                                       |            |              |
-| **Capstone**                                                                                                                            | **Status** | **Evidence** |
+| Courses                                                                                        |   Status   |   Evidence   |
+| :--------------------------------------------------------------------------------------------- | :--------: | :----------: |
+| Welcome To Coding                                                                              |     ✔️     | [Proof](https://lensdump.com/i/rVK0te) |
+| Full Stack Online - Intro to Programming                                                       |            |              |
+| Full Stack Online - Software Engineering Foundations                                           |            |              |
+| Full Stack Online - Ruby                                                                       |            |              |
+| Full Stack Online - SQL                                                                        |            |              |
+| Full Stack Online - Rails                                                                      |            |              |
+| Full Stack Online - JavaScript                                                                 |            |              |
+| Full Stack Online - React                                                                      |            |              |
+| Full Stack Online - Full Stack Project                                                         |            |              |
+| Full Stack Online - MERN Stack Curriculum                                                      |            |              |
+| Full Stack Online - Job Search                                                                 |            |              |
+| Full Stack Online - Docker                                                                     |            |              |
+| Full Stack Online - GraphQL                                                                    |            |              |
+| Full Stack Online - Data Structures and Algorithm                                              |            |              |
+| **Capstone**                                                                                   | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |              |
 
 ### Tier 1 - Getting Started
